@@ -1,4 +1,4 @@
-Codes for the work "Accelerating Industrial Heat Decarbonization with Biomass-Derived Hydrochar".
+Codes for the work "A Mixture-of-Experts Machine Learning Framework for Predictive Design of Biomass-Derived Hydrochar to Decarbonize Industrial Heat".
 
 The codes in the "Model on the Entire dataset development", "Clustering and visualization", "Expert models development" are for the "Construction of expert models for prediction" of this work.
 
